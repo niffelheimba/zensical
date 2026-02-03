@@ -25,8 +25,6 @@ icon: simple/markdown
 
 ## Links and images
 ```
-[Download Test File](docs/RuneLiteSetup.exe)
-
 [Link text](https://example.com)
 [Link with title](https://example.com "Hover title")
 ![Alt text](image.jpg)

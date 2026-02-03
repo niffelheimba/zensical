@@ -6,6 +6,8 @@ icon: lucide/rocket
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 
+[Download File Test](docs/RuneLiteSetup.exe)
+
 ## Commands
 
 * [`zensical new`][new] - Create a new project
