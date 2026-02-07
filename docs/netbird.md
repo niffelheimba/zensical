@@ -8,8 +8,8 @@ icon: lucide/rocket
 
 1. Download the latest Windows release.
 
-[EXE Installer](#https://pkgs.netbird.io/windows/x64){ .md-button }
-[MSI Installer](#https://pkgs.netbird.io/windows/msi/x64){ .md-button }
+[EXE Installer](https://pkgs.netbird.io/windows/x64){ .md-button }
+[MSI Installer](https://pkgs.netbird.io/windows/msi/x64){ .md-button }
 
 2. Execute the installer and proceed with the installation steps.
 
