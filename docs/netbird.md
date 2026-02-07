@@ -17,7 +17,7 @@ icon: lucide/rocket
 
 4. The default installation uses the Netbird's proprietary cloud management URL. To change the management URL to Northlake's URL do the following:
 
-![Download Tutorial](https://dummyimage.com/600x400/eee/aaa){ align=left }
+![Download Tutorial](https://github.com/niffelheimba/zensical/blob/main/images/netbirdtutorial.gif?raw=true){ align=left }
 
 ## iOS Installation
 
