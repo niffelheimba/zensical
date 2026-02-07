@@ -9,9 +9,9 @@ icon: lucide/rocket
 - Download the latest Windows release.
 
 [EXE Installer][WinExe]{ .md-button .md-button--primary }
-    [WinExe]: https://pkgs.netbird.io/windows/x64
+[WinExe]: https://pkgs.netbird.io/windows/x64
 [MSI Installer][WinMSI]{ .md-button .md-button--primary }
-    [WinMSI]: https://pkgs.netbird.io/windows/msi/x64
+[WinMSI]: https://pkgs.netbird.io/windows/msi/x64
 
 - Execute the installer and proceed with the installation steps.
 
@@ -26,7 +26,7 @@ icon: lucide/rocket
 - Download the latest iOS release on the App Store.
 
 [App Store Download][App Store]{ .md-button .md-button--primary }
-    [App Store]: https://apps.apple.com/us/app/netbird-p2p-vpn/id6469329339
+[App Store]: https://apps.apple.com/us/app/netbird-p2p-vpn/id6469329339
 
 ## AndroidTV Installation
 
